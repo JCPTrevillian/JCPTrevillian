@@ -10,9 +10,10 @@
 **Who am I?**
 \
 \
-I am software engineer with valuable experience gained through an apprenticeship with Intuit and Anita B. I bring a unique combination of theoretical knowledge, hands-on training, 
-and extraordinary soft skills from my previous career in Dental that sets me apart. During my apprenticeship, I had the opportunity to work closely with senior engineers - 
-learning best practices during sprints while honing my skills in software development, testing, and problem-solving. This also taught me the importance of teamwork, effective communication, \and adaptability in a fast-paced development environment. 
+I am software engineer with valuable experience gained through my software engineering apprenticeship with Intuit and Anita B. 
+I bring a unique combination of theoretical knowledge, hands-on training, and extraordinary professional soft skills from my previous career in Dental Management that sets me apart. 
+At Intuit I worked closely with senior engineers - learning best practices during sprints while honing my skills in software development, testing, and problem-solving. 
+This also reinforced the importance of teamwork, effective communication, and adaptability in a fast-paced development environment. 
 \
 \
 I am happy to connect with like-minded professionals. I'm open to discussing new opportunities, collaborating on projects, or engaging in conversations related to emerging tech. 
