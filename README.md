@@ -10,7 +10,7 @@
 **Who am I?**
 \
 \
-*TL/DR: I love building things and collaborating with others on a team.* 
+*TL/DR: I love building things, problem solving, and collaborating with others on a team.* 
 \
 \
 I am software engineer with valuable experience gained through my software engineering apprenticeship with Intuit and Anita B. 
