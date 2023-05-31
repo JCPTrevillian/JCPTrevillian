@@ -14,7 +14,7 @@
 \
 \
 I am software engineer with valuable experience gained through my software engineering apprenticeship with Intuit and Anita B. 
-I bring a unique combination of theoretical knowledge, hands-on training, and extraordinary professional soft skills from my previous career in Dental Management that sets me apart. 
+I bring a unique combination of theoretical knowledge and hands-on training coupled with extraordinary professional soft skills from my previous career in Dental Management that sets me apart. 
 At Intuit I worked closely with senior engineers - learning best practices during sprints while honing my skills in software development, testing, and problem-solving. 
 This also reinforced the importance of teamwork, effective communication, and adaptability in a fast-paced development environment. 
 \
