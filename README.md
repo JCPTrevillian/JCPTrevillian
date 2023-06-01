@@ -1,8 +1,8 @@
-### Welcome to my GitHub!<br> I am Jennifer Trevillian <br> Software Engineer in San Francisco, California. 
+## Welcome to my GitHub!<br> I am Jennifer Trevillian <br> Software Engineer in San Francisco, California. 
 \
-**My tech stack:**
+**My tech stack:** 
 \
-![Screen Shot 2023-05-31 at 3 10 51 PM](https://github.com/JCPTrevillian/JCPTrevillian/assets/95890754/02bd4972-e72e-49b4-8b1c-a057b452057c)
+![stack](https://github.com/JCPTrevillian/JCPTrevillian/assets/95890754/f7e49808-297a-4eb4-b8d3-77e91c5e357d)
 \
 \
 **Who am I?**
@@ -12,10 +12,13 @@
 \
 \
 I am software engineer with valuable experience gained through my software engineering apprenticeship with Intuit and Anita B. 
-I bring a unique combination of theoretical knowledge and hands-on training coupled with extraordinary professional soft skills from my previous career in Dental Management that sets me apart. 
-At Intuit I worked with senior engineer mentors - learning best practices during sprints while honing my skills in software development, testing, and problem-solving. 
+I bring a unique combination of technical theoretical knowledge and hands-on development training coupled with extraordinary professional 
+soft skills from my previous career in Dental Management that sets me apart. At Intuit I worked with senior engineering mentors, 
+learning best practices during sprints while honing my skills in software development, testing, and problem-solving. 
 This reinforced the importance of teamwork, effective communication, and adaptability in a fast-paced development environment. 
 \
 \
-I am happy to connect with like-minded professionals. I'm open to discussing new opportunities, collaborating on projects, or engaging in conversations related to emerging tech. 
+I am happy to connect with like-minded professionals to discuss new opportunities, collaborate on projects, or engage in conversations related to emerging tech. 
+\
+\
 Feel free to reach out to me! 
