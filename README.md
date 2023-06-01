@@ -8,7 +8,7 @@
 **Who am I?**
 \
 \
-*TL/DR: I love building things, problem solving, collaborating with others on a team, and presenting.* 
+*TL/DR: I love building user-centric interfaces, team collaboratiion, and presenting.* 
 \
 \
 Hello! I'm Jennifer -  a Software Engineer who combines technical builds with excellent communication skills 
