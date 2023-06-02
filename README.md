@@ -11,7 +11,7 @@
 *TL/DR: I love building user-centric interfaces, team collaboratiion, and presenting.* 
 \
 \
-Hello! I'm Jennifer -  a Software Engineer who combines technical builds with excellent communication skills 
+Hello! I'm Jennifer, a Software Engineer who combines technical builds with excellent communication skills 
 to create user-friendly web applications. I am passionate about using technology to bridge the gap 
 between users and innovative digital solutions. 
 \
