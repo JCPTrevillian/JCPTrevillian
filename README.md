@@ -17,6 +17,4 @@ between users and innovative digital solutions.
 \
 \
 I am a naturally curious person who likes to explore, ask questions, build to break, and break to build better.  
-\
-\
-**IF YOU ARE A MENTOR SEEKING A MENTEE, I WOULD LOVE TO CHAT WITH YOU!** 
+
