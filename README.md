@@ -1,5 +1,6 @@
 ## Welcome to my GitHub!<br> I am Jennifer Trevillian <br> Software Engineer in San Francisco, California. 
 \
+\
 **My tech stack:** 
 \
 \
@@ -9,7 +10,9 @@
 <img align="left" alt="html" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 \
 \
+\
 **Who am I?**
+\
 \
 \
 *TL/DR: I love building user-centric interfaces, team collaboration, and presenting.* 
