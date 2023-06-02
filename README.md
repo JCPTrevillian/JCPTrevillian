@@ -16,7 +16,7 @@ to create user-friendly web applications. I am passionate about using technology
 between users and innovative digital solutions. 
 \
 \
-I am a naturally curious person who asks questions and likes to explore things I want to learn.   
+I am a naturally curious person who asks questions and likes to explore the things I want to learn.   
 \
 \
 Tech is my ❤️
