@@ -21,9 +21,10 @@
 *TL/DR: I love building user-centric web applications, team collaboration, and presenting.* 
 \
 \
-Hello! I'm Jennifer, a Software Engineer who combines technical theoretical knowledge with excellent communication skills 
+Hello! I'm Jennifer, a Software Engineer who combines technical theoretical knowledge with excellent communication skills
 to create user-centric web applications. I am passionate about using technology to bridge the gap between users 
 and innovative digital solutions. 
+\
 \
 I'm excited to leverage my experience and continue my growth, contributing to innovative projects and delivering solutions 
 that make a meaningful impact. With a strong work ethic, a passion for learning, and a collaborative mindset - 
