@@ -32,7 +32,7 @@ I'm ready to take on new challenges and excel in this dynamic field.
 \
 Tech is my ❤️  (along with my rescue dog Max) 
 <details>
-  <summary><h4>My Life Changing Journey into Tech  (for people love a great background story!)</h4></summary>
+  <summary><h4>My Life Changing Journey into Tech  (if you love a great background story!)</h4></summary>
   I was a Registered Dental Assistant who worked my way up through every role in the dental office to General Manager. 
   
   I was responsible for multiple locations for an oral surgery practice. I also owned and operated my own incorporated small business. 
