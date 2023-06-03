@@ -40,9 +40,10 @@ Tech is my ❤️  (along with my rescue dog Max) 🐕
   
   
   During the pandemic I decided to take a leap of faith and bet on myself. While I loved helping others in dentristry - I also love
-  bulding things, breaking them, and rebuilding them to understand how it works. Data was something I took the initiative to leverage in my 
-  Dental roles so I decided to explore Data by completing the Google Data Analytics Professional Certification. I heard about the APP partnership
-  with Anita B and Intuit and felt that would be an amazing life-chaging experience so I applied. 
+  bulding/creating things to understand how it works. I love Data. Data was something I took the initiative to leverage in my 
+  Dental roles so I decided to explore Data by completing the Google Data Analytics Professional Certification. Unfortunately that 
+  did not satisfy my love of creating/building things so I considered software engineering. I heard about the APP partnership
+  with Anita B and Intuit and felt that would be such an amazing life-chaging experience so I applied. 
   
   **Imagine my excitement when I learned out of hundreds of applicants I was one of the chosen few!**
   
@@ -54,9 +55,8 @@ Tech is my ❤️  (along with my rescue dog Max) 🐕
   *Within my short time with Intuit, I earned two awards: Customer Obsession and Courage.* 
    
   I love creating user centric web applications, knowing I am helping others. I enjoy design - not merely for asthetics but for the intentional 
-  functionality written into the code working hard behind the scenes. I continue self-guided learning every day - 
-  reinforcing and strengthening my front and back end skills. I can best be described as a naturally curious person who asks questions 
-  and likes to explore the things I want to master.
+  functionality written into the code working hard behind the scenes. I am actively learning every day - reinforcing and strengthening my 
+  front and back end skills. I can best be described as a naturally curious person who asks questions and likes to explore the things I want to master.
   
   When I look back at who I was a year ago when I first started to who I am today? I have come a long way.
   
