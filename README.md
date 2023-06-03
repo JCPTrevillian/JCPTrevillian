@@ -32,7 +32,7 @@ Tech is my ❤️  (along with my rescue dog Max)
   <summary><h4>My Life Changing Journey into Tech  (for people love a great background story!)</h4></summary>
   I was a Registered Dental Assistant who worked my way up through every role in the dental office to General Manager. 
   
-  I was responsible for multiple locations for an oral surgery practice. I also owned and operated my own incorporated small businesses. 
+  I was responsible for multiple locations for an oral surgery practice. I also owned and operated my own incorporated small business. 
   
   
   During the pandemic I decided to take a leap of faith and bet on myself. While I loved dentristry (I still do) I also love
