@@ -23,9 +23,7 @@
 \
 Hello! I'm Jennifer, a Software Engineer who combines technical builds with excellent communication skills 
 to create user-friendly web applications. I am passionate about using technology to bridge the gap 
-between users and innovative digital solutions. 
-\
-I am a naturally curious person who asks questions and likes to explore the things I want to learn.   
+between users and innovative digital solutions.    
 \
 Tech is my ❤️  (along with my rescue dog Max) 
 <details>
@@ -49,11 +47,12 @@ Tech is my ❤️  (along with my rescue dog Max)
   Within my short time with Intuit, I earned two awards: Customer Obsession and Courage. 
    
   I love creating user centric web applications, knowing I am helping others. I enjoy design - not merely for asthetics but for the intentional 
-  functionality written into the code working hard behind the scenes. I continue self-guided learning every day - reinforcing and strengthening my skills. 
+  functionality written into the code working hard behind the scenes. I continue self-guided learning every day - reinforcing and strengthening my skills.
+  I can best be described as a naturally curious person who asks questions and likes to explore the things I want to master.
   
   When I look back at who I was a year ago when I first started to who I am today? 
   
   I have come a long way.
   
-  I am so excited for where my tech journey leads next. 
+  I am so excited for where my tech journey leads next! 
   
