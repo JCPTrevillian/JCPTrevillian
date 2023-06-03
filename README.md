@@ -25,6 +25,11 @@ Hello! I'm Jennifer, a Software Engineer who combines technical builds with exce
 to create user-friendly web applications. I am passionate about using technology to bridge the gap 
 between users and innovative digital solutions.    
 \
+I'm excited to leverage my experience and continue my growth as a software engineer, contributing to innovative projects 
+and delivering solutions that make a meaningful impact. With a strong work ethic, a passion for learning, and a collaborative mindset, 
+I'm ready to take on new challenges and excel in this dynamic field.
+\
+\
 Tech is my ❤️  (along with my rescue dog Max) 
 <details>
   <summary><h4>My Life Changing Journey into Tech  (for people love a great background story!)</h4></summary>
