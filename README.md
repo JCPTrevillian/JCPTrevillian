@@ -31,7 +31,7 @@ that make a meaningful impact. With a strong work ethic, a passion for learning,
 I'm ready to take on new challenges and excel in this dynamic field.
 \
 \
-Tech is my ❤️  (along with my rescue dog Max) 
+Tech is my ❤️  (along with my rescue dog Max) 🐕
 <details>
   <summary><h4>My Life Changing Journey into Tech  (if you love a great background story!)</h4></summary>
   I was a State of California Registered Dental Assistant who worked my way up through every role in the dental office to General Manager. 
@@ -42,7 +42,9 @@ Tech is my ❤️  (along with my rescue dog Max)
   During the pandemic I decided to take a leap of faith and bet on myself. While I loved dentristry (I still do) I also love
   bulding things, breaking them, and rebuilding them to understand how it works. Data was something I leveraged in my Dental roles 
   so I decided to explore Data by completing the Google Data Analytics Professional Certification. I heard about the APP partnership
-  with Anita B and Intuit so I applied. Imagine my excitement when I learned **out of hundreds of applicants I was one of the chosen few!**
+  with Anita B and Intuit and thought that would be an amazing life-chaging experience so I applied. 
+  
+  **Imagine my excitement when I learned out of hundreds of applicants I was one of the chosen few!**
   
   The apprenticeship was split into two parts: the intensive learning phase and the apprenticeship phase. In the first half, the learning phase, 
   I worked hard to earn my full stack Tech Degree (Javascript, Node, React, Express, SQL). I forged meaningful friendships with 
@@ -59,4 +61,14 @@ Tech is my ❤️  (along with my rescue dog Max)
   When I look back at who I was a year ago when I first started to who I am today? I have come a long way.
   
   I am so excited for where my tech journey leads next! 
+  </details>
   
+  
+  
+  
+  📊**My Github Stats - because data is everything** 
+  
+  
+  ![Jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcptrevillian&theme=dark&show_icons=true)
+
+
