@@ -1,13 +1,15 @@
-## Welcome to my GitHub!<br> I am Jennifer Trevillian <br> Software Engineer in San Francisco, California. 
+### Welcome to my GitHub!<br> I am Jennifer Trevillian <br> Software Engineer in San Francisco, California. 
 \
-\
-**My tech stack:** 
+**Languages and Tools:** 
 \
 \
 <img align="left" alt="html" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="html" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="html" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="html" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="html" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+<img align="left" alt="html" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="html" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 \
 \
 \
