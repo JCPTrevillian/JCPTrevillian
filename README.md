@@ -61,7 +61,7 @@ Tech is my ❤️  (along with my rescue 🐕 Max)
   functionality written into the code working hard behind the scenes. I am actively learning every day - reinforcing and strengthening my 
   front and back end skills. I can best be described as a naturally curious person who asks questions and likes to explore the things I want to master.
   
-  When I look back at who I was a year ago when I first started to who I am today? I have come a long way.
+  When I look back at who I was a year ago when I first started to who I am today? I have come a long way. 
   
   I am so excited for where my tech journey leads next! 
   </details>
