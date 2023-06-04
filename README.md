@@ -34,7 +34,7 @@ that make a meaningful impact. With a strong work ethic, a passion for learning,
 I'm ready to take on new challenges and excel in this dynamic field.
 \
 \
-Tech is my ❤️  (along with my rescue dog Max) 🐕
+Tech is my ❤️  (along with my rescue 🐕 Max)
 <details>
   <summary><h4>My Life Changing Journey into Tech  (if you love a great background story!)</h4></summary>
   I was a State of California Registered Dental Assistant who worked my way up through every role in the dental office to General Manager. 
@@ -43,18 +43,18 @@ Tech is my ❤️  (along with my rescue dog Max) 🐕
   
   
   During the pandemic I decided to take a leap of faith and bet on myself. While I loved helping others in dentristry - I also love
-  bulding/creating things to understand how it works. I love Data. Data was something I took the initiative to leverage in my 
+  building/creating things. I love Data. Data was something I took the initiative to leverage in my 
   Dental roles so I decided to explore Data by completing the Google Data Analytics Professional Certification. Unfortunately that 
-  did not satisfy my love of creating/building things so I considered software engineering. I heard about the APP partnership
+  did not satisfy my love for creating/building things so I considered software engineering. I heard about the APP partnership
   with Anita B and Intuit and felt that would be such an amazing life-chaging experience so I applied. 
   
   **Imagine my excitement when I learned out of hundreds of applicants I was one of the chosen few!**
   
   The apprenticeship was split into two parts: the intensive learning phase and the apprenticeship phase. In the first half, the learning phase, 
-  I worked hard to earn my full stack Tech Degree (Javascript, Node, React, Express, SQL). I forged meaningful friendships with 
+  I worked hard to earn my full stack Tech Degree (Javascript, Node, React, Express, SQL) while forging meaningful friendships with 
   others in my cohort. For the apprenticeship phase I was thrilled to be placed on Prediction Service Team (AI/ML) as a Front End Engineer. 
   Through this experience I learned best practices during sprints while honing my skills in software development, testing, and end of sprint 
-  code review presentations/demonstrations. This reinforced the importance of teamwork, effective communication, and adaptability in a fast-paced development environment. 
+  code review presentations/demonstrations. That reinforced the importance of teamwork, effective communication, and adaptability in a fast-paced development environment. 
   *Within my short time with Intuit, I earned two awards: Customer Obsession and Courage.* 
    
   I love creating user centric web applications, knowing I am helping others. I enjoy design - not merely for asthetics but for the intentional 
