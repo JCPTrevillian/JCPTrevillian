@@ -68,11 +68,8 @@ Tech is my ❤️  (along with my rescue dog Max) 🐕
   
   
   
+<!---📊 **My Personal Github Stats - because data is everything**---> 
   
-  
-  📊 **My Personal Github Stats - because data is everything** 
-  
-  
-  ![Jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcptrevillian&theme=dark&show_icons=true)
+<!---![Jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcptrevillian&theme=dark&show_icons=true)--->
 
 
