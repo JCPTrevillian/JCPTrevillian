@@ -70,9 +70,7 @@ Tech is my ❤️  (along with my rescue 🐕 Max)
 
 <!---💻 **My Top Languages**---> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcptrevillian&hide_progress=true)
-
-
+<!---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcptrevillian&hide_progress=true)--->
 
 <!---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcptrevillian&layout=donut-vertical)--->
 
