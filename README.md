@@ -64,8 +64,16 @@ Tech is my ❤️  (along with my rescue 🐕 Max)
   
   
   
-<!---📊 **My Personal Github Stats - because data is everything**---> 
+<!---📊 **My Personal Github Stats - because data is everything**--->
   
 <!---![Jennifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcptrevillian&theme=dark&show_icons=true)--->
+
+<!---💻 **My Top Languages**---> 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcptrevillian&hide_progress=true)
+
+
+
+<!---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcptrevillian&layout=donut-vertical)--->
 
 
