@@ -12,9 +12,7 @@ Tech is my ❤️  (along with my rescue 🐕 Max)
 
 <details>
   <summary><h4>:book: My Life Changing Journey into Tech  (everyone loves a great background story!)</h4></summary>
-  I was a State of California Registered Dental Assistant who worked my way up through every role in the dental office to General Manager. 
-  
-  I was responsible for multiple locations for an oral surgery practice. I also owned and operated an incorporated small business. 
+  I was a State of California Registered Dental Assistant who worked my way up through every role in the dental office to General Manager. I was responsible for multiple locations for an oral surgery practice. I also owned and operated an incorporated small business. 
   
   
   During the pandemic I decided to take a leap of faith and bet on myself. While I loved helping others in dentristry - I also love
