@@ -1,4 +1,4 @@
-### Welcome to Jennifer's GitHub!
+### Welcome to my GitHub!
 <br>
 Hello! I'm Jennifer, a Software Engineer who combines technical theoretical knowledge with excellent communication skills
 to create user-centric web applications. I am passionate about using technology to bridge the gap between users 
@@ -8,7 +8,6 @@ I'm ready to take on new challenges and excel in this dynamic field.<br>
 <br>
 
 Tech is my ❤️  (along with my rescue 🐕 Max)
-
 <br>
 
 <details>
