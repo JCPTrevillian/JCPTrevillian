@@ -16,7 +16,7 @@ Tech is my ❤️  (along with my rescue 🐕 Max)
  
   <br> 
  
-  During the pandemic I decided to take a leap of faith and bet on myself. While I loved helping others in dentristry - I also love
+  During the pandemic I decided to take a leap of faith and bet on myself. While I loved helping others in dentistry - I also love
   building/creating things. I love Data. Data was something I took the initiative to leverage in my 
   Dental roles so I decided to explore Data by completing the Google Data Analytics Professional Certification. That 
   did not satisfy my love for creating/building things so I considered software engineering. I heard about the APP partnership
