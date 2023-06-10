@@ -12,7 +12,7 @@ Tech is my ❤️  (along with my rescue 🐕 Max)
 
 <details>
   <summary><h4>:book: My Life Changing Journey into Tech  (everyone loves a great background story!)</h4></summary>
-  I was a State of California Registered Dental Assistant who worked my way up through every role in the dental office to General Manager. I was responsible for multiple locations for an oral surgery practice. I also owned and managed an incorporated small business. 
+  I was a State of California Registered Dental Assistant who worked my way up through every role in the dental office to General Manager. I was responsible for multiple locations for an oral surgery practice. I also owned and managed an incorporated small business.<br> 
  
   <br> 
  
@@ -28,10 +28,11 @@ Tech is my ❤️  (along with my rescue 🐕 Max)
   friendships with others in my cohort. I was thrilled to be placed on Prediction Service Team (AI/ML) as a Front End Engineer at Intuit. 
   Through this experience I learned best practices during sprints while honing my skills in software development, testing, and end of sprint 
   code review presentations/demonstrations. That reinforced the importance of teamwork, effective communication, and adaptability in a 
-  fast-paceddevelopment environment. 
-  *Within my sh ort time with Intuit, I earned two awards: Customer Obsession and Courage.* 
+  fast-paced development environment.<br> 
+  <br>
+  *Within my short time with Intuit, I earned two awards: Customer Obsession and Courage.* 
    
-  I love creating user centric web applications, knowing I am helping others. I enjoy design - not merely for asthetics but for the intentional 
+  I loved creating user centric web applications, knowing I am helping others. I enjoy design - not merely for asthetics but for the intentional 
   functionality written into the code working hard behind the scenes. I am excited to expereince building more things. I am actively learning 
   every day - reinforcing and strengthening my front and back end skills. I can best be described as a naturally curious person who likes to explore 
   the things I want to master.
