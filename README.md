@@ -19,7 +19,7 @@ Tech is my ❤️  (along with my rescue 🐕 Max)
   During the pandemic I decided to take a leap of faith and bet on myself. While I loved helping others in dentistry - I also love
   building/creating things. I love Data. Data was something I took the initiative to leverage in my 
   Dental roles so I decided to explore Data by completing the Google Data Analytics Professional Certification. That 
-  did not satisfy my love for creating/building things so I considered software engineering. I heard about the APP partnership
+  did not satisfy my love for creating/building things so I considered software engineering. I read about the APP partnership
   with Anita B and Intuit and felt that would be such an amazing life-chaging experience so I applied. 
   
   **Imagine my excitement when I learned out of hundreds of applicants I was one of the chosen few!**
@@ -27,10 +27,10 @@ Tech is my ❤️  (along with my rescue 🐕 Max)
   During my apprenticeship I worked hard to earn my full stack Tech Degree (Javascript, Node, React, Express, SQL) while forging meaningful 
   friendships with others in my cohort. I was thrilled to be placed on Prediction Service Team (AI/ML) as a Front End Engineer at Intuit. 
   Through this experience I learned best practices during sprints while honing my skills in software development, testing, and end of sprint 
-  code review presentations/demonstrations. That reinforced the importance of teamwork, effective communication, and adaptability in a 
+  code presentations/demonstrations. That reinforced the importance of teamwork, effective communication, and adaptability in a 
   fast-paced development environment.<br> 
   <br>
-  *Within my short time with Intuit, I earned two awards: Customer Obsession and Courage.* 
+  *Within my software engineering apprenticeship at Intuit, I earned two awards: Customer Obsession and Courage.* 
    
   I loved creating user centric web applications, knowing I am helping others. I enjoy design - not merely for aesthetics but for the intentional 
   functionality written into the code working hard behind the scenes. I continue to be fascinated by the power of data and how it can inform and 
