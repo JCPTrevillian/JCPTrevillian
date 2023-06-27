@@ -11,7 +11,7 @@ Tech is my ❤️  (along with my rescue 🐕 Max)
 <br>
 
 <details>
-  <summary><h4>:book: My Life Changing Journey into Tech  (everyone loves a great background story!)</h4></summary>
+  <summary><h4>:book: My Life Changing Journey into Tech (Because everyone loves a great background story!)</h4></summary>
   I was a State of California Registered Dental Assistant who worked my way up through every role in the dental office to General Manager. I was responsible for multiple locations for an oral surgery practice. I also owned and managed an incorporated small business.<br> 
  
   <br> 
