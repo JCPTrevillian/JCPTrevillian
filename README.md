@@ -25,10 +25,9 @@ Tech is my ❤️  (along with my rescue 🐕 Max)
   **Imagine my excitement when I learned out of hundreds of applicants I was one of the chosen few!**
   
   During my apprenticeship I worked hard to earn my full stack Tech Degree (Javascript, Node, React, Express, SQL) while forging meaningful 
-  friendships with others in my cohort. I was thrilled to be placed on Prediction Service Team (AI/ML) as a Front End Engineer at Intuit. 
+  friendships with others in my cohort. I was thrilled to be placed on Prediction Service Team (AI/ML) as an Engineer at Intuit. 
   Through this experience I learned best practices during sprints while honing my skills in software development, testing, and end of sprint 
-  code presentations/demonstrations. That reinforced the importance of teamwork, effective communication, and adaptability in a 
-  fast-paced development environment.<br> 
+  code presentations/demonstrations. That reinforced my belief in the importance of teamwork, effective communication, and adaptability in a fast-paced development environment.<br> 
   <br>
   *Within my software engineering apprenticeship at Intuit, I earned two awards: Customer Obsession and Courage.* 
    
