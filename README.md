@@ -13,11 +13,12 @@ Tech is my ❤️  (along with my rescue 🐕 Max)
 <details>
   <summary><h4>:book: My Life Changing Journey into Tech (Because everyone loves a great background story!)</h4></summary>
   I was a State of California Registered Dental Assistant who worked my way up through every role in the dental practice from back office clinical roles to front office administrative roles until 
-  I served in the top spot as General Manager. I was responsible for multiple locations for an oral surgery practice. I also owned and managed an incorporated small business.<br> 
+  I served in the top spot as General Manager. I was responsible for multiple locations as General Manager to an oral surgery practice. I also owned and managed an incorporated small business. 
+  <br> 
  
   <br> 
  
-  During the pandemic I decided to take a leap of faith and bet on myself. While I loved helping others in dentistry - I also love
+  During the pandemic I decided to take a leap of faith and bet on myself. While I loved helping others in dentistry, I also love
   building/creating things. I love Data. Data was something I took the initiative to leverage in my 
   Dental roles so I decided to explore Data by completing the Google Data Analytics Professional Certification. That 
   did not satisfy my love for creating/building things so I considered software engineering. I read about the APP partnership
@@ -32,13 +33,15 @@ Tech is my ❤️  (along with my rescue 🐕 Max)
   code presentations/demonstrations. That reinforced my belief in the importance of teamwork, effective communication, and adaptability in 
   a fast-paced development environment.<br> 
   <br>
-  *Within my software engineering apprenticeship at Intuit, I earned two awards: Customer Obsession and Courage.* 
+  *During my software engineering apprenticeship at Intuit, I earned two awards: Customer Obsession and Courage.* 
    
-  I loved creating user centric web applications, knowing I am helping others. I enjoy design - not merely for aesthetics but for the         intentional 
-  functionality written into the code working hard behind the scenes. I continue to be fascinated by the power of data and how it can         inform and 
-  influence positive outcomes. I am excited to continue building more things. I am actively learning every day - 
-  reinforcing and strengthening my front and back end skills. I can best be described as a naturally curious person who enjoys exploring 
-  the things I want to master.
+  During my apprenticeship I loved creating user centric web applications, knowing I am helping others. I enjoy design - 
+  not merely for aesthetics but for the intentional functionality written into the code working hard behind the scenes. 
+  I continue to be fascinated by the power of data and how it can inform and influence positive outcomes.
+  I am excited to continue building more things. I am actively learning every day - reinforcing and strengthening my front and back end skills. 
+  I can best be described as a naturally curious person who enjoys exploring the things I want to master.
+  Those who have worked with me would more than likely share that I am a helper. 
+  I genuinely love helping others. 
   
   When I look back at who I was a year ago when I first started to who I am today? I have come a long way. 
   
