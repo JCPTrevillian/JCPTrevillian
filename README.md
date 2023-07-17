@@ -1,9 +1,9 @@
 ### Welcome to my GitHub!
 <br>
-Hello! I'm Jennifer, a Software Engineer who combines technical knowledge with excellent communication skills
+Hello! I'm Jennifer, a Software Engineer in San Francisco who combines technical knowledge with excellent communication skills
 to create user-centric web applications. I am passionate about using technology to bridge the gap between users 
-and innovative digital solutions. I'm excited to continue my growth by contributing to innovative projects and delivering solutions that make a meaningful impact. With a strong work ethic, a passion for learning, and a collaborative mindset - 
-I'm ready to take on new challenges and excel in this dynamic field.<br>
+and innovative digital solutions. I'm excited to continue my growth by contributing to innovative projects and delivering solutions that make a meaningful impact. 
+With a strong work ethic, a passion for learning, and a collaborative mindset - I'm ready to take on new challenges and excel in this dynamic field.<br>
 
 <br>
 
