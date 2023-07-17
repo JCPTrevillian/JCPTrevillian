@@ -40,8 +40,7 @@ Tech is my ❤️  (along with my rescue 🐕 Max)
   I continue to be fascinated by the power of data and how it can inform and influence positive outcomes.
   I am excited to continue building more things. I am actively learning every day - reinforcing and strengthening my front and back end skills. 
   I can best be described as a naturally curious person who enjoys exploring the things I want to master.
-  Those who have worked with me would more than likely share that I am a helper. 
-  I genuinely love helping others. 
+  Those who have worked with me would more than likely share that I genuinely love helping others. 
   
   When I look back at who I was a year ago when I first started to who I am today? I have come a long way. 
   
