@@ -12,10 +12,10 @@ Tech is my ❤️  (along with my rescue 🐕 Max)
 
 <details>
   <summary><h4>:book: My Life Changing Journey into Tech (Because everyone loves a great background story!)</h4></summary>
-  I was a State of California Registered Dental Assistant who worked my way up through every role in the dental practice from back office clinical roles to front office administrative roles until 
-  I served in the top spot as General Manager. I was responsible for multiple locations as General Manager to an oral surgery practice. I also owned and managed an incorporated small business. 
+  I transitioned into tech from a successful career in dentistry as a State of California Registered Dental Assistant who worked my way up through every role in the dental practice 
+  from back office clinical roles to front office administrative roles until I earned the top role as General Manager. I was responsible for multiple locations as General Manager 
+  to an oral surgery practice. I also owned and managed an incorporated small business. 
   <br> 
- 
   <br> 
  
   During the pandemic I decided to take a leap of faith and bet on myself. While I loved helping others in dentistry, I also love
