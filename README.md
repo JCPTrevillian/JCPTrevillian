@@ -11,43 +11,35 @@ Tech is my ❤️  (along with my rescue 🐕 Max)
 <br>
 
 <details>
-  <summary><h4>:book: My Life Changing Journey into Tech (Because everyone loves a great background story!)</h4></summary>
-  I transitioned into tech from a successful career in dentistry as a State of California Registered Dental Assistant who worked my way up through every role in the dental practice 
-  from back office clinical roles to front office administrative roles until I earned the top role as General Manager. I was responsible for multiple locations as General Manager 
-  to an oral surgery practice. I also owned and managed an incorporated small business. 
-  <br> 
-  <br> 
- 
-  During the pandemic I decided to take a leap of faith and bet on myself. While I loved helping others in dentistry, I also love
-  building/creating things. I love Data. Data was something I took the initiative to leverage in my 
-  Dental roles so I decided to explore Data by completing the Google Data Analytics Professional Certification. That 
-  did not satisfy my love for creating/building things so I considered software engineering. I read about the APP partnership
-  with Anita B and Intuit and felt that would be such an amazing life-chaging experience so I applied. 
-  
-  **Imagine my excitement when I learned out of hundreds of applicants I was one of the chosen few!**
-  
-  During my apprenticeship I worked hard to earn my full stack Tech Degree (Javascript, Node, React, Express, SQL) while forging meaningful 
-  friendships with others in my cohort. I was thrilled to be placed on Prediction Service Team (AI/ML) as an Engineer at Intuit. 
-  Through this experience I learned best practices during sprints while honing my skills in software development, testing, and end of 
-  sprint 
-  code presentations/demonstrations. That reinforced my belief in the importance of teamwork, effective communication, and adaptability in 
-  a fast-paced development environment.<br> 
-  <br>
-  *During my software engineering apprenticeship at Intuit, I earned two awards: Customer Obsession and Courage.* 
-   
-  During my apprenticeship I loved creating user centric web applications, knowing I am helping others. I enjoy design - 
-  not merely for aesthetics but for the intentional functionality written into the code working hard behind the scenes. 
-  I continue to be fascinated by the power of data and how it can inform and influence positive outcomes.
-  I am excited to continue building more things. I am actively learning every day - reinforcing and strengthening my front and back end skills. 
-  I can best be described as a naturally curious person who enjoys exploring the things I want to master.
-  Those who have worked with me would more than likely share that I genuinely love helping others. 
-  
-  When I look back at who I was a year ago when I first started to who I am today? I have come a long way. 
-  
-  I am so excited for where my tech journey leads next! 
-  </details>
-<br>    
+<summary><h4>:book: My Life Changing Journey into Tech (Because everyone loves a great background story!)</h4></summary>
+I transitioned into tech from a successful career in dentistry as a State of California Registered Dental Assistant. Working my way up through various roles in the dental practice, from back office 
+clinical positions to front office administrative responsibilities, I eventually achieved the top role as General Manager overseeing multiple locations for an oral surgery practice. Priot to that I managed my own incorporated small business.
 
+
+During the pandemic, I made a life-changing decision to take a leap of faith and follow my passion for building and creating things. While dentistry had been a fulfilling field where I enjoyed helping 
+others, I felt a strong connection with data and its potential applications. Even during my dental career, I proactively used data to enhance my performance in various roles. To explore my passion 
+further, I pursued and successfully completed the Google Data Analytics Professional Certification.
+
+However, my desire for creating and building things persisted, leading me to consider software engineering as a potential career path. During my research, I came across the APP partnership with Anita B 
+and Intuit, which seemed like an incredible opportunity to combine my passion for technology with my eagerness to make a positive impact. Excitement surged through me when I found out that, out of 
+numerous applicants, I was among the chosen few selected for this unique opportunity.
+
+Throughout my software engineering apprenticeship at Intuit, I dedicated myself to learning and growing. I earned my full-stack Tech Degree (Javascript, Node, React, Express, and SQL)
+The Prediction Service AI Team embraced me as an Engineering Apprentice. I was thrilled to be a part of the team! During my apprenticeship, I learned the value of applying best practices 
+during sprints by refining my skills in software development, testing, and end-of-sprint code presentations. The experience reinforced the importance of teamwork, effective communication, 
+and adaptability in a fast-paced development environment.
+
+**During my time at Intuit, I was humbled to receive two awards: Customer Obsession and Courage**
+
+As I immersed myself in software engineering, I found satisfaction in creating user-centric web applications with an understanding how my work could positively impact others. I developed a deep 
+appreciation for design, not just for aesthetics but for the intentional functionality it brings to the code behind the scenes. My fascination with the power of data continued to grow as I saw how it can inform and influence positive outcomes.
+
+My tech journey has been one of continuous learning and growth. I actively engage in expanding my skills in both front and back-end, embracing challenges as opportunities to master new concepts. 
+
+Reflecting on my progress from a year ago when I took that leap of faith to the present, I am amazed at how far I've come. I'm enthusiastic about where my tech journey will lead me next and excited 
+to keep building and creating meaningful things. Each day, I eagerly learn and develop, driven by the desire to make a difference in the tech industry and contribute to a better future.
+</details>
+<br>    
 
 **Jennifer's Languages and Tools:**
 \
