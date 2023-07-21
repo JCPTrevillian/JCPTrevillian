@@ -24,11 +24,11 @@ Throughout my software engineering apprenticeship at Intuit, I dedicated myself 
 
 During my time at Intuit I was humbled to receive two awards: Customer Obsession and Courage. 
 
-My tech journey has been one of continuous learning and growth. I every day work on expanding my skills in both front and back-end, embracing challenges as opportunities to master new concepts.
+My tech journey has been one of continuous learning and growth. I work every day on expanding my skills in both front and back-end, embracing challenges as opportunities to master new concepts.
 
 Reflecting on my progress from a year ago to today, I am amazed at how far I've come. 
 
-I'm excited about where my tech journey will lead me next! 
+I'm excited to expereince where my tech journey will lead me next! 
 </details>
 <br>    
 
