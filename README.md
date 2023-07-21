@@ -1,8 +1,7 @@
 ### Welcome to my GitHub!
 <br>
-Hello! I'm Jennifer, a Software Engineer in San Francisco who combines technical knowledge with excellent communication skills
-to create user-centric web applications. I am passionate about using technology to bridge the gap between users 
-and innovative digital solutions. I'm excited to continue my growth by contributing to innovative projects and delivering solutions that make a meaningful impact. 
+Hello! I'm Jennifer, a Software Engineer in San Francisco. I am passionate about using technology to bridge the gap between users and innovative digital solutions. 
+I'm excited to continue my growth by contributing to innovative projects and delivering solutions that make a meaningful impact. 
 With a strong work ethic, a passion for learning, and a collaborative mindset - I'm ready to take on new challenges and excel in this dynamic field.<br>
 
 <br>
@@ -12,10 +11,12 @@ Tech is my ❤️  (along with my rescue 🐕 Max)
 
 <details>
 <summary><h4>:book: My Life Changing Journey into Tech (Because everyone loves a great background story!)</h4></summary>
-I transitioned into tech from a successful career in dentistry as a State of California Registered Dental Assistant. Working my way up through various roles in the dental practice, from back office clinical positions to front office administrative responsibilities, I eventually achieved the top role as General Manager overseeing multiple locations for an oral surgery practice. Prior to that I managed my own incorporated small business.
+I transitioned into tech from a successful career in dentistry as a State of California Registered Dental Assistant. Working my way up through various roles in the dental practice, from back office clinical positions to front office administrative responsibilities, I eventually achieved the top role as General Manager overseeing multiple locations for an oral surgery practice. Prior to that I 
+managed my own incorporated small business. 
 
-While dentistry had been a deeply fulfilling field where I enjoyed helping others, I felt a strong connection with data and its potential applications. Even during my dental career, I proactively used data to enhance my performance in various roles. To explore my passion further, I pursued and successfully completed the Google Data Analytics Professional Certification.
 
+While dentistry was deeply fulfilling field where I enjoyed helping others, I felt a strong connection with data and its potential applications. During my dental career, I proactively used data to enhance my performance in various use cases. To further satisfy my curiosity, I successfully completed the Google Data Analytics Professional Certification.
+ 
 This was when I decided to take a leap of faith, bet on myself, and make the transition into tech. 
 
 During my research, I came across the APP partnership with Anita B and Intuit, which seemed like an incredible opportunity to combine my passion for technology with my eagerness to make a positive impact. I was so excited when I found out that out of hundreds of applicants, I was among the chosen few selected for this unique opportunity!
@@ -28,7 +29,7 @@ My tech journey has been one of continuous learning and growth. I every day work
 
 Reflecting on my progress from a year ago to today, I am amazed at how far I've come. 
 
-I'm excited about where my tech journey will lead me next!  
+I'm excited about where my tech journey will lead me next! 
 </details>
 <br>    
 
