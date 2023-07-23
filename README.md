@@ -20,15 +20,15 @@ This was when I decided to take a leap of faith, bet on myself, and make the tra
 
 During my research, I came across the APP partnership with Anita B and Intuit, which seemed like an incredible opportunity to combine my passion for technology with my eagerness to make a positive impact. I was so excited when I found out that out of hundreds of applicants, I was among the chosen few selected for this unique opportunity!
 
-Throughout my software engineering apprenticeship at Intuit, I dedicated myself to learning and growing. I earned my full-stack Tech Degree (Javascript, React, Node, and SQL)  During my apprenticeship, I learned the value of applying best practices during sprints by refining my skills in software development, testing, and end-of-sprint code presentations. The experience reinforced the importance of my existing leadership experience in teamwork, effective communication, and adaptability in a fast-paced development environment.
+Throughout my software engineering apprenticeship at Intuit, I dedicated myself to learning and growing. I earned my full-stack Tech Degree (Javascript, React, Node, and SQL)  During my apprenticeship, I learned the value of applying best practices during sprints by refining my skills in software development, testing, and end-of-sprint code presentations. The experience reinforced the importance of my existing leadership experience in teamwork, effective communication, and adaptability in a fast-paced environment.
 
 During my time at Intuit I was humbled to receive two awards: Customer Obsession and Courage. 
 
-My tech journey has been one of continuous learning and growth. I work every day on expanding my skills in both front and back-end, embracing challenges as opportunities to master new concepts.
+My tech journey has been one of continuous learning and growth. I work every day on expanding my skills in both front and back-end and embracing challenges as opportunities on my path to mastery.
 
 Reflecting on my progress from a year ago to today, I am amazed at how far I've come. 
 
-I'm excited to expereince where my tech journey will lead me next! 
+I'm excited to experience where my tech journey will lead me next! 
 </details>
 <br>    
 
