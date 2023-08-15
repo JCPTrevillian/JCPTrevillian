@@ -11,10 +11,9 @@ Tech is my ❤️  (along with my rescue 🐕 Max)
 
 <details>
 <summary><h4>:book: My Life Changing Journey into Tech (Because everyone loves a great background story!)</h4></summary>
-I transitioned into tech from a successful career in dentistry as a State of California Registered Dental Assistant. Working my way up through various roles in the dental practice, from back office clinical positions to front office administrative positions, I eventually achieved the top role as General Manager overseeing multiple locations for an oral surgery practice. Prior to that I 
-managed my own incorporated small business. 
+I transitioned into tech from a successful career in dentistry as a State of California Registered Dental Assistant. Working my way up through various roles in the specialty dental practice, from back office clinical roles to front office administrative leadership roles, I eventually achieved the top role as General Manager overseeing multiple locations for an oral surgery practice. Prior to that I managed my own incorporated small business. 
 
-<br>While dentistry was a deeply fulfilling field where I enjoyed helping others, I felt a strong connection with data and its potential applications. During my dental career, I proactively used data to enhance my performance in various use cases. To further satisfy my curiosity, I successfully completed the Google Data Analytics Professional Certification.
+<br>While dentistry was a deeply fulfilling field where I truly enjoyed helping others, I felt a strong connection with data and its potential applications. During my dental career, I proactively used data to enhance my performance in various use cases. To further satisfy my curiosity, I successfully completed the Google Data Analytics Professional Certification.
  
 This was when I decided to take a leap of faith, bet on myself, and make the transition into tech. 
 
